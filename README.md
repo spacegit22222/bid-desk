@@ -10,7 +10,7 @@ Bids and grants are hard, and most of the hard parts are admin. Bid Desk lets Cl
 - **Written from your own library.** Sections are drafted from your own company facts, references, CVs and methods, with every line traceable and the gaps listed.
 - **The buyer's template, filled.** Text and prices go into the buyer's own Word and Excel forms, keeping their headings, tables and formulas.
 
-It also tracks every tender and funding call on one board, checks eligibility and key terms against their pages, keeps one set of bid facts across every section, builds the price or grant budget (the app does the sums, not the AI), and turns every debrief into a view of where you lose points. It works for tenders and for grant applications.
+It also tracks every tender and funding call on one board, checks eligibility and key terms against their pages, keeps one set of bid facts across every section, builds the price or grant budget (the app does the sums, not the AI), and turns every debrief into a view of where you lose points. It works for tenders and for grant applications. Writing grant applications? See the [guide for grant writers](docs/GRANTS.md).
 
 Bid Desk runs as an artifact in your own Claude account. There is nothing to install.
 
@@ -32,7 +32,7 @@ Bid Desk runs as an artifact in your own Claude account. There is nothing to ins
    - two or three past winning answers as **Style** items, so drafts sound like your team
 
    Tag each item for tenders, grants or both. The AI drafts and prices only from what is in the library.
-4. **Run your first tender.** Put your name in *Signed in as*, then choose *New opportunity* and upload a tender PDF (text-based PDFs work best). The sample grant call is there to try things out.
+4. **Run your first tender or grant call.** Put your name in *Signed in as*, then choose *New opportunity* and upload a tender PDF (text-based PDFs work best). The sample grant call is there to try things out.
 5. **Share it with your team.** See below.
 
 A setup video and a full walkthrough are on [www.practical-ai.work/rfp-writing](https://www.practical-ai.work/rfp-writing).
