@@ -1,0 +1,212 @@
+[
+ {
+  "type": "Company",
+  "title": "Company profile (standard text)",
+  "text": "Northlight Data Advisory (sample bidder) is an independent digital and data consultancy founded in 2018 in Amsterdam, with a second office in Nairobi opened in 2021. We have 34 staff: 22 consultants, 6 data and information management specialists, and 6 in project support, finance and administration.\n\nWe help governments, UN agencies, development banks and NGOs make better decisions with data, and use data and digital tools safely. Our work falls into three practices:\n1. Data governance and data protection: national and sector data governance frameworks, data protection impact assessments, data sharing agreements, and responsible AI reviews.\n2. Information management: monitoring systems, survey design, dashboards and information management for humanitarian and health programmes.\n3. Digital health policy: regulatory mapping, digital health strategies, and interoperability and standards advice.\n\nSince 2018 we have completed 61 assignments in 19 countries, 38 of them for UN agencies or national governments. Working languages are English and French. We do not have Indonesian-speaking staff and partner with national organisations where a tender needs local language and context.\n\nHow we work: small senior teams, a named team leader who stays for the whole assignment, two-step quality review on every deliverable, and handover of all working files and templates to the client at the end.",
+  "scope": "tender"
+ },
+ {
+  "type": "Company",
+  "title": "Corporate facts, registrations and certifications",
+  "text": "Legal name: Northlight Data Advisory B.V. (sample bidder)\nLegal form: private limited company, registered in the Netherlands, 2018.\nBranch: Northlight Data Advisory Kenya Ltd, Nairobi, registered 2021.\nUNGM: registered, Level 1. [NEEDED: UNGM number before submission]\nQuality: ISO 9001:2015 certified since 2022, scope \"consultancy in data governance, information management and digital policy\". Next surveillance audit: March 2027.\nInformation security: ISO 27001 certification in progress, target date Q2 2027. Until then we follow our Information Security Policy aligned to ISO 27001 Annex A.\nProfessional indemnity insurance: EUR 2.5 million per claim. Public liability: EUR 2.5 million.\nConflict of interest: we do not sell software or represent vendors, so we have no commercial interest in the technology choices we advise on.\nUN Supplier Code of Conduct: adopted 2019. PSEA and safeguarding policy: adopted 2020, reviewed annually, all staff trained.",
+  "scope": "tender"
+ },
+ {
+  "type": "Finance",
+  "title": "Financial standing (last 3 audited years)",
+  "text": "Audited by an independent registered accountant (registeraccountant) in the Netherlands. Figures for Northlight Data Advisory B.V. only, not consolidated with the Kenya branch.\n\nYear 2023: turnover EUR 3.1 million, net result EUR 214,000, equity EUR 640,000.\nYear 2024: turnover EUR 3.6 million, net result EUR 281,000, equity EUR 851,000.\nYear 2025: turnover EUR 4.2 million, net result EUR 302,000, equity EUR 1.08 million.\n\nCurrent ratio at end of 2025: 1.9. No bank debt. Credit line available: EUR 400,000 for pre-financing project costs.\nAudited statements (balance sheet, income statement and notes) are filed under Finance > Audited accounts for each year, as PDF.\nLargest client share in 2025: 14% of turnover.",
+  "scope": "tender"
+ },
+ {
+  "type": "Reference",
+  "title": "Reference: national health data governance framework (East Africa)",
+  "text": "Client: a UN agency country office in East Africa, working with the Ministry of Health. \nPeriod: March 2024 to December 2024 (9 months). Value: EUR 186,000. Role: lead contractor, no partners.\nContact: available on request; reference letter on file (signed February 2025).\n\nWhat we did:\n- Mapped 14 laws, regulations and policies affecting health data, and the roles of 9 institutions.\n- Ran 6 consultation workshops with 140 participants from the ministry, regulators, hospitals, insurers and civil society.\n- Drafted the National Health Data Governance Framework: data classification, data sharing rules, consent, retention, a data protection impact assessment template, and an accountability model for digital health tools.\n- Drafted a 2-page ministerial policy brief and a 3-year implementation roadmap.\n\nResults:\n- Framework adopted by ministerial circular in February 2025.\n- 3 national health programmes used the data sharing template within 6 months.\n- All deliverables accepted on first submission except the roadmap, accepted after one review round.\n\nTeam: team leader (data protection advisor), information management lead, legal analyst, project coordinator. Effort: 205 person-days.",
+  "scope": "tender"
+ },
+ {
+  "type": "Reference",
+  "title": "Reference: AI readiness and risk review for a public health insurer (West Africa)",
+  "text": "Client: a national public health insurance agency in West Africa.\nPeriod: April 2023 to September 2023 (6 months). Value: EUR 96,000. Role: lead contractor.\nReference letter on file (signed November 2023).\n\nWhat we did:\n- Reviewed 6 AI use cases in use or in procurement: claims triage, fraud detection, call-centre chatbot, provider ranking, drug-claim anomaly detection, and document scanning.\n- Classified each by risk, using a risk-based approach modelled on the EU AI Act and the WHO guidance on ethics and governance of AI for health.\n- Wrote a validation and monitoring checklist covering training data quality, bias testing across regions and sexes, performance thresholds, human oversight and complaint handling.\n- Trained 22 staff from the insurer's IT, legal and medical audit units in 2 workshops.\n\nResults:\n- The insurer paused one use case (provider ranking) until bias testing was done.\n- The checklist became a mandatory annex in the insurer's AI procurement documents from January 2024.\n\nEffort: 104 person-days.",
+  "scope": "tender"
+ },
+ {
+  "type": "Reference",
+  "title": "Reference: digital health regulatory mapping and benchmarking (Southeast Asia)",
+  "text": "Client: an international development bank, on behalf of a ministry of health in Southeast Asia.\nPeriod: August 2025 to January 2026 (5 months). Value: EUR 142,000. Role: consortium lead with a national policy institute as partner (40% of effort).\nReference letter on file (signed February 2026).\n\nWhat we did:\n- Mapped the legal and regulatory framework for telemedicine, electronic medical records and software as a medical device.\n- Benchmarked 4 countries (Singapore, the Republic of Korea, the United Kingdom and Rwanda) on regulatory sandboxes, software registration and post-market monitoring.\n- Assessed which practices fit the national context, using a criteria matrix: legal fit, institutional capacity, cost, and time to implement.\n- Facilitated 4 hybrid focus groups with 85 participants and 12 key informant interviews.\n- Delivered a policy options paper with 11 prioritised recommendations, and a policy brief for the vice minister.\n\nResults:\n- 7 of 11 recommendations included in the ministry's 2026 to 2028 digital health regulatory plan.\n\nEffort: 168 person-days, of which the national partner delivered 66.",
+  "scope": "tender"
+ },
+ {
+  "type": "Reference",
+  "title": "Reference: data protection impact assessments for a humanitarian NGO",
+  "text": "Client: an international humanitarian NGO, global headquarters and 5 country offices.\nPeriod: 2022 to 2025, framework contract, 9 call-offs. Total value: EUR 210,000. Role: sole contractor.\nReference letter on file (signed June 2025).\n\nWhat we did:\n- Carried out 14 data protection impact assessments for biometric registration, cash transfer and health information systems.\n- Designed the NGO's data sharing agreement template and a responsible data checklist for country teams.\n- Built a 2-day training course on responsible data and delivered it to 180 staff.\n\nResults:\n- The DPIA method became part of the NGO's global data protection policy in 2024.\n- Zero reportable personal data breaches in the systems assessed during the contract period.",
+  "scope": "tender"
+ },
+ {
+  "type": "Method",
+  "title": "Method: stakeholder consultation and focus group discussions",
+  "text": "Purpose: to collect, test and validate evidence with the people who will have to apply a policy.\n\nSteps:\n1. Stakeholder mapping: list every institution and group affected, score each on influence and interest, and agree the list with the client in the inception phase.\n2. Invitations 10 working days ahead, through the client, with a 1 to 2 page pre-read sent 5 working days ahead.\n3. Each focus group discussion (FGD) has a facilitator, a note-taker and a client focal point. Hybrid meetings have a second facilitator who manages online participants and the chat.\n4. A structured note template captures positions, evidence offered, disagreements and follow-up questions, so notes from different meetings can be compared.\n5. Key informant interviews (45 to 60 minutes) fill gaps where a group setting will not work, for example with industry or senior officials.\n6. Validation: participants receive a 2-page summary of findings and have 5 working days to comment before findings are final.\n\nInclusion: we check the participant list for balance across institutions, levels of government, sexes and regions, and report the actual mix in each report.\nTypical scale: 15 to 25 participants per FGD; 2 resource persons per meeting.",
+  "scope": "tender"
+ },
+ {
+  "type": "Method",
+  "title": "Method: international benchmarking",
+  "text": "Purpose: to learn from countries that have already solved a similar problem, and judge what will work in the client's context.\n\nSteps:\n1. Agree the benchmarking questions with the client in the inception report. Typical questions: who regulates, how risk is classified, how products are validated before use, and how they are monitored after deployment.\n2. Choose 3 to 5 countries using four criteria: relevance of the health system, maturity of the regulation, availability of documents in English, and at least one country with a similar income level.\n3. Desk review of laws, regulations, guidance and evaluations, plus 1 or 2 interviews per country with regulators or experts.\n4. Compare in a single matrix, one row per question, one column per country.\n5. Fit assessment: score each practice on legal fit, institutional capacity, cost and time to implement in the client country.\n6. Report the practices worth adopting, adapting or avoiding, with reasons.\n\nInternational frameworks we use as the reference point: the WHO guidance on ethics and governance of AI for health, the OECD AI Principles, the UNESCO Recommendation on the Ethics of AI, and the EU AI Act.",
+  "scope": "tender"
+ },
+ {
+  "type": "Method",
+  "title": "Method: policy options analysis and recommendations",
+  "text": "We turn findings into decisions a ministry can take.\n\n1. Problem statements: one per priority gap, agreed with the client.\n2. Options: for each problem, 2 to 4 options, always including \"no new regulation, use existing powers\".\n3. Assessment criteria: effectiveness, legal feasibility, institutional capacity, cost, time to implement, and risks to patients and to innovation.\n4. Scoring with the client's technical team in a working session, then a validation meeting with stakeholders.\n5. Recommendations: each one names the responsible institution, the legal instrument (law, regulation, ministerial decree, technical guideline), the first follow-up action and a time frame.\n6. A policy brief of 2 to 4 pages for senior decision makers, in plain language.",
+  "scope": "tender"
+ },
+ {
+  "type": "Method",
+  "title": "Method: AI governance framework for health",
+  "text": "Our framework follows the AI lifecycle, from idea to retirement, and sets minimum requirements for each stage:\n\n1. Scope and risk classification: which AI tools are covered, and a risk tier based on the clinical or administrative impact of an error.\n2. Data governance: lawful basis, data quality and representativeness, consent, access control, retention, and links to the national personal data protection law.\n3. Model accountability: a named accountable owner for every AI tool, a model registry, documentation (intended use, training data, known limitations), and a route for complaints.\n4. Validation and clinical safety: performance thresholds before use, local validation on national data, and clinical safety review for high-risk tools.\n5. Monitoring and auditing: post-deployment monitoring of accuracy and bias, incident reporting, periodic algorithm audits by an independent party, and criteria for suspending a tool.\n6. Institutions: who regulates, who certifies, who audits, and how the health ministry, data protection authority and medical device regulator work together.\n\nWe map each element to the WHO guidance on ethics and governance of AI for health, the OECD AI Principles and the UNESCO Recommendation on the Ethics of AI, and then to national law.",
+  "scope": "tender"
+ },
+ {
+  "type": "Method",
+  "title": "Quality assurance and risk management",
+  "text": "Quality assurance:\n- Every deliverable passes a two-step review before it reaches the client: a technical peer review by a senior expert not on the project (2 working days), then an editorial and formatting review (1 working day).\n- The team leader signs off each deliverable against the terms of reference using a checklist that lists every required element.\n- We track client comments in a comment log, showing how each comment was handled. The log is sent with each revised version.\n- Our ISO 9001 quality management system covers project start-up, document control and client feedback.\n\nRisk management:\n- A risk register is created in the inception phase and reviewed every two weeks with the client focal point. Each risk has an owner, likelihood, impact and mitigation.\n- Typical top risks in a short policy study, with our usual mitigation:\n  1. Stakeholders unavailable during consultations: book all meetings in the inception phase, through the client; offer online participation.\n  2. Late access to data or documents: list required documents at kick-off; agree a fallback of public sources.\n  3. Late review comments from the client: agree review periods in the inception report (usually 5 working days); escalate after 2 days late.\n  4. Scope creep: record changes in the risk register and agree them in writing.\n  5. Political sensitivity of recommendations: test wording with the client focal point before wider circulation.\n\nDocumentation: all working files, notes and templates are stored in a shared client folder and handed over at the end of the assignment.",
+  "scope": "tender"
+ },
+ {
+  "type": "Policy",
+  "title": "Data protection and confidentiality",
+  "text": "- We process personal data only as needed for the assignment, under a data processing agreement where the client is the controller.\n- Interview and FGD notes are pseudonymised; participant lists are kept separate from notes, with access limited to the core team.\n- Data is stored in the EU (Microsoft 365, EU data boundary), with multi-factor authentication for all staff.\n- Personal data is deleted or returned 90 days after the end of the contract, unless the client asks otherwise in writing.\n- All staff and associates sign confidentiality undertakings and complete annual data protection training.\n- We do not enter client documents into public AI tools. Where AI tools are used to support analysis, they run under enterprise terms with no training on client data, and a person checks every output.",
+  "scope": "tender"
+ },
+ {
+  "type": "Team",
+  "title": "CV summary: Project Manager / Team Leader",
+  "text": "Role on bids: Project Manager / Team Leader.\nName: [NEEDED: name, kept off the sample]. Nationality: Dutch. Languages: English (fluent), French (working). No Indonesian.\nEducation: MSc Public Health (health policy), and LLM European law and technology.\nExperience: 16 years, of which 9 in digital health and data governance policy.\nSelected assignments:\n- Team leader, National Health Data Governance Framework, East Africa, 2024 (see reference).\n- Team leader, digital health regulatory mapping and benchmarking, Southeast Asia, 2025 to 2026 (see reference).\n- Policy adviser, national e-health strategy review, Ministry of Health, West Africa, 2021.\nStrengths: leading multi-country policy studies, facilitating senior-level consultations, writing for ministers.\nAvailability: available November 2026 to February 2027 at up to 60% of time.",
+  "scope": "tender"
+ },
+ {
+  "type": "Team",
+  "title": "CV summary: AI and Digital Health Governance Expert",
+  "text": "Role on bids: AI and Digital Health Governance Expert.\nName: [NEEDED: name]. Languages: English (fluent), German (native).\nEducation: MSc Computer Science (machine learning), and certified CIPP/E (data protection).\nExperience: 11 years: 5 as a machine learning engineer in health technology, 6 in AI governance and data protection advice.\nSelected assignments:\n- Lead expert, AI readiness and risk review for a public health insurer, West Africa, 2023 (see reference).\n- Designed algorithm audit checklists and a model registry template for a European hospital group, 2022.\n- Data protection impact assessments for biometric and health information systems for a humanitarian NGO, 2022 to 2025.\nStrengths: AI risk classification, model validation and monitoring, bias testing, explaining technical risk to non-technical audiences.\nAvailability: available November 2026 to February 2027 at up to 50% of time.",
+  "scope": "tender"
+ },
+ {
+  "type": "Team",
+  "title": "CV summary: Information Management Lead",
+  "text": "Role on bids: Information Management Lead, or Research and Consultation Lead.\nName: [NEEDED: name]. Languages: English (fluent), French (fluent), Swahili (working).\nEducation: MA International Development, and certificate in survey methodology.\nExperience: 11 years in humanitarian and health information systems.\nSelected assignments:\n- Benchmarking study of health information systems across 5 countries, 2022.\n- Ran consultations for the East Africa data governance framework: 6 workshops, 140 participants, 2024.\n- Facilitated more than 40 multi-stakeholder workshops and focus groups since 2018.\nStrengths: consultation design, facilitation, structured note-taking and synthesis, benchmarking.",
+  "scope": "tender"
+ },
+ {
+  "type": "Partner",
+  "title": "Partner profile: Indonesian health policy institute (sample partner)",
+  "text": "Name: Pusat Kajian Kebijakan Kesehatan Nusantara (sample partner). Jakarta, founded 2012, 18 staff.\nFocus: health policy research for the Indonesian Ministry of Health, provincial health offices and development partners.\nRelevant work (as told to us, to be confirmed with reference letters):\n- Regulatory review of telemedicine rules after the Health Law (UU 17/2023), 2024.\n- Study on implementing the Personal Data Protection Law (UU 27/2022) in hospitals, 2023 to 2024.\n- Facilitated consultations for SATUSEHAT interoperability rollout, 2023.\nProposed people:\n- Law and Policy Expert: health lawyer, 9 years of experience, bilingual English and Indonesian. [NEEDED: CV]\n- Administration and Finance Staff: 6 years organising FGDs and workshops for government and UN clients in Jakarta. [NEEDED: CV]\nStatus: letter of intent to form a consortium agreed in principle on 5 October 2026. [NEEDED: signed letter for Annex G]\nProposed share of responsibilities: about 40%.",
+  "scope": "tender"
+ },
+ {
+  "type": "Finance",
+  "title": "Rate card 2026 (day rates)",
+  "text": "Day rates for 2026 in EUR, excluding VAT. Used for public and UN bids unless the commercial lead approves a change. Partner rates as quoted by the partner, September 2026.\n\n- Project Manager/Team Leader: EUR 950 per day\n- AI & Digital Health Governance Expert: EUR 850 per day\n- Information Management Lead: EUR 750 per day\n- Law & Policy Expert: EUR 520 per day\n- Administration/Finance Staff: EUR 260 per day\n\nRules:\n- One day is 8 hours. No overtime charged.\n- Travel days are charged at 50% of the day rate.\n- Minimum margin on partner days: 10%, already included in the partner rates above.",
+  "scope": "tender"
+ },
+ {
+  "type": "Finance",
+  "title": "Cost norms: meetings, travel and translation",
+  "text": "Use these unit costs when pricing expenses. Check them against the tender: some buyers provide venues or pay travel at UN rates.\n\nMeetings (Jakarta, Indonesian partner quotes, September 2026):\n- Hybrid meeting at a client office, up to 15 people (snacks, hybrid kit, printing): EUR 450 per meeting\n- Hybrid meeting at a client office, up to 25 people: EUR 700 per meeting\n- Resource person honorarium: EUR 150 per person per meeting\n- Workshop in a government venue, about 65 people (catering, materials, sound and video, no venue hire): EUR 3,800\n\nTravel:\n- Return flight Amsterdam to Jakarta, economy: EUR 1,250\n- Accommodation and daily allowance in Jakarta: EUR 210 per night (check the current UN DSA rate if the tender requires it)\n- Local transport in Jakarta: EUR 25 per day\n\nTranslation and editing:\n- English to Indonesian translation: EUR 0.12 per word\n- Professional layout of a final report: EUR 600",
+  "scope": "tender"
+ },
+ {
+  "type": "Finance",
+  "title": "Effort benchmarks from past projects",
+  "text": "Person-days actually spent on comparable deliverables, from our time records. Use as a starting point for level of effort.\n\n- Inception report with stakeholder map and consultation plan: 14 to 18 days across the team.\n- Legal and regulatory mapping (10 to 15 instruments) with gap analysis: 28 to 36 days.\n- Consultation round of 2 FGDs plus 6 to 10 interviews, with a validated findings report: 26 to 34 days.\n- Benchmarking of 3 to 4 countries: 14 to 18 days (often part of the consultation report).\n- Governance framework plus policy recommendations paper: 32 to 40 days.\n- Policy brief, final report and dissemination workshop: 18 to 24 days.\n- Project management and quality review: add 8 to 10% of total days.\nSplit by role on a typical study: team leader 30%, technical experts 55%, administration 15%.",
+  "scope": "tender"
+ },
+ {
+  "type": "Boilerplate",
+  "title": "Why choose us (closing paragraph)",
+  "text": "We bring a team that has written national health data and AI governance rules before, and seen them adopted. Our team leader and AI expert have worked together on 3 of the references in this proposal. With our Indonesian partner we combine international practice with knowledge of Indonesian law and institutions, and every deliverable is reviewed twice before it reaches the client. At the end of the assignment the client keeps every template, note and working file, so the ministry can carry the work forward without us.",
+  "scope": "tender"
+ },
+ {
+  "type": "Company",
+  "title": "Organisation profile: Stichting Buurtklimaat (sample applicant)",
+  "text": "Stichting Buurtklimaat Utrecht (sample applicant) helps residents make their own streets cooler, greener and better at holding rainwater. We were founded in 2019 by residents of Utrecht Zuilen after a summer of heat and flooded basements.\n\nWe work in neighbourhoods with little green space and many residents on low incomes: Zuilen, Overvecht and Kanaleneiland. We combine three things: physical change in the street (removing paving, rain gardens, green roofs), residents who design, build and maintain it, and partnerships with the municipality and housing corporations who own most of the land.\n\nTeam: 6 staff (4.2 FTE): a director, a project lead, two community organisers, a landscape gardener and a part-time finance and office manager. 120 active volunteers, of whom 35 are trained \"street captains\" who coordinate maintenance in their own street.\nWorking languages with residents: Dutch, Arabic, Turkish and English.",
+  "scope": "grant"
+ },
+ {
+  "type": "Company",
+  "title": "Legal facts, ANBI status and governance",
+  "text": "Legal name: Stichting Buurtklimaat Utrecht (sample applicant). Legal form: foundation (stichting), registered at the Chamber of Commerce in 2019. [NEEDED: KvK number]\nANBI status: since 2020, confirmed by the Tax Administration, still valid.\nBoard: 5 unpaid board members, meeting 6 times a year. Board and management roles are separate; the board approves the annual plan, budget and accounts.\nGovernance: we follow the principles of good governance for charities and publish our annual report and accounts on our website.\nVAT: we are not able to recover VAT on project costs.",
+  "scope": "grant"
+ },
+ {
+  "type": "Finance",
+  "title": "Financial summary, last three years",
+  "text": "Approved annual accounts, reviewed by an independent accountant.\n\n2023: total income EUR 412,000. Grants EUR 296,000, municipality contracts EUR 78,000, donations EUR 38,000. Result EUR 9,000.\n2024: total income EUR 538,000. Grants EUR 371,000, municipality contracts EUR 121,000, donations EUR 46,000. Result EUR 14,000.\n2025: total income EUR 642,000. Grants EUR 448,000, municipality contracts EUR 142,000, donations EUR 52,000. Result EUR 11,000.\n\nContinuity reserve at end of 2025: EUR 96,000, about two months of costs.\nLargest single funder in 2025: 21% of income.",
+  "scope": "grant"
+ },
+ {
+  "type": "Reference",
+  "title": "Past project: Tegelwippen Zuilen 2024 (Zuilen, Utrecht)",
+  "text": "Funder: a national nature fund (sample). Grant EUR 85,000, 18 months, January 2024 to June 2025. Co-financing: municipality EUR 20,000 cash, 2,900 volunteer hours.\n\nWhat we did: 9 streets redesigned with residents in 14 design sessions. Removed 1,180 m2 of paving and replaced it with planting and permeable surfaces. Built 22 rain gardens. Trained 18 street captains.\nResults:\n- 1,180 m2 depaved (target 1,000 m2).\n- 22 rain gardens storing about 66,000 litres of rainwater per heavy shower (3,000 litres each, design value).\n- Surface temperature on depaved spots 9 to 12 degrees Celsius lower on hot afternoons, measured with a thermal camera in July 2025.\n- 410 residents took part in at least one activity; 38% aged over 65 or under 18.\n- After one year, 95% of new planting was alive and maintained by residents.\nFinal report approved without comments. Reference: the fund's programme manager, contact on request.",
+  "scope": "grant"
+ },
+ {
+  "type": "Reference",
+  "title": "Past project: Rain gardens Overvecht 2023",
+  "text": "Funder: municipality of Utrecht climate adaptation scheme (sample). Grant EUR 48,000, 12 months, 2023.\nWhat we did: 16 rain gardens and 2 water squares designed with residents of 4 apartment blocks, with the housing corporation as partner. 6 resident workshops in Dutch and Arabic.\nResults: 16 rain gardens built, about 48,000 litres of storage. 140 residents involved. The housing corporation adopted our rain garden design for two other estates.\nLesson learned: maintenance agreements must be signed before building starts; in two blocks it took 4 months after completion.",
+  "scope": "grant"
+ },
+ {
+  "type": "Method",
+  "title": "Theory of change (organisation level)",
+  "text": "Problem: in dense, paved neighbourhoods residents suffer most from heat and flooding, and have the least say over their street.\nIf residents design, build and maintain green measures in their own street, together with the land owners,\nthen streets become measurably cooler and hold more rainwater,\nand residents gain the skills, network and ownership to keep the green alive and to ask for more,\nso that the neighbourhood becomes more resilient to climate extremes, and social cohesion grows.\nKey assumptions: land owners give permission and commit to maintenance agreements; enough residents take part, including older residents and families; plants survive the first dry summer with watering by street captains.",
+  "scope": "grant"
+ },
+ {
+  "type": "Method",
+  "title": "Resident involvement method",
+  "text": "1. Street walk with residents to map hot spots and flooding, in the evening and on Saturdays so working residents can join.\n2. Kitchen-table design sessions in each street, in Dutch, Arabic, Turkish and English, with drawings rather than plans.\n3. Build days where residents and volunteers do the planting together with our gardener.\n4. Street captains: one or two residents per street trained to coordinate watering and maintenance, with a small tool kit.\n5. Door-to-door visits to reach residents who do not come to meetings, especially older residents living alone.\nWe record participation by street, age group and activity.",
+  "scope": "grant"
+ },
+ {
+  "type": "Method",
+  "title": "Monitoring, evaluation and learning approach",
+  "text": "Physical effects: m2 of paving removed (measured on plan and checked on site), number and storage volume of rain gardens (design value), surface temperature on depaved and paved spots with a thermal camera on 3 hot afternoons a year, and air temperature with 10 low-cost sensors per neighbourhood.\nResidents: participation by activity and age group, a short survey on heat experience and ownership at start and end (target response 150).\nPlants: survival and maintenance check every 6 months.\nLearning: a learning session with partners at mid-term and a short public learning note at the end.\nTypical cost: 7 to 9% of direct costs.",
+  "scope": "grant"
+ },
+ {
+  "type": "Policy",
+  "title": "Safeguarding and volunteer policy",
+  "text": "All staff and street captains who work with residents sign our code of conduct. Staff and volunteers who work with children or vulnerable adults have a certificate of conduct (VOG). We have a confidential adviser and a complaints procedure published on our website. Volunteers are insured through the municipal volunteer insurance. Build days follow our safety checklist, including tool instructions and first aid.",
+  "scope": "grant"
+ },
+ {
+  "type": "Team",
+  "title": "CV summary: project lead",
+  "text": "Project lead, 9 years of experience in community-led greening. MSc Landscape Architecture.\nLed Tegelwippen Zuilen 2024 (9 streets, 1,180 m2 depaved) and Rain gardens Overvecht 2023.\nEarlier: 4 years as designer at a landscape architecture firm working for municipalities.\nAvailability: 0.8 FTE for the project period.",
+  "scope": "grant"
+ },
+ {
+  "type": "Team",
+  "title": "CV summary: community organiser",
+  "text": "Community organiser, 6 years of experience in Kanaleneiland and Overvecht. Speaks Dutch, Arabic and English.\nOrganised more than 60 resident meetings and 25 build days. Trained 18 street captains in Zuilen.\nAvailability: 0.8 FTE for the project period.",
+  "scope": "grant"
+ },
+ {
+  "type": "Partner",
+  "title": "Partners and co-financing commitments (Kanaleneiland)",
+  "text": "Woningcorporatie Stadswonen (sample partner): owns most housing in the target streets. Agreed in principle to permission for works on its land, maintenance agreements, and a cash contribution of EUR 30,000. [NEEDED: signed co-financing letter]\nMunicipality of Utrecht, climate adaptation team (sample partner): cash contribution of EUR 25,000 and removal of paving by the municipal contractor in public space. [NEEDED: signed letter of support]\nBewonersorganisatie Kanaleneiland (sample residents' organisation): letter of support, help with recruitment.\nOwn contribution: EUR 5,000 cash from our donations.\nVolunteers: estimated 1,600 hours over 24 months.",
+  "scope": "grant"
+ },
+ {
+  "type": "Finance",
+  "title": "Cost norms for greening projects",
+  "text": "Unit costs from our 2024 and 2025 projects, excluding VAT (which we cannot recover, so budget including VAT where it applies).\n- Personnel: project lead EUR 62 per hour, community organiser EUR 52 per hour, gardener EUR 48 per hour, finance and office EUR 50 per hour (gross salary plus employer costs).\n- Removing paving and preparing soil, done by subcontractor: EUR 38 per m2.\n- Planting, soil improvement and plants: EUR 24 per m2.\n- Rain garden, materials: EUR 1,150 each.\n- Green roof on a community building, extensive sedum: EUR 95 per m2.\n- Air temperature sensor with data plan: EUR 180 each.\n- Thermal camera rental: EUR 150 per day.\n- Tool kit for a street captain: EUR 120.\n- Resident meeting or design session (room, drinks, childcare, translation): EUR 250.\n- Build day (tools, catering, safety): EUR 400.\n- Volunteer expenses: about EUR 3 per volunteer hour.\n- Independent audit statement: EUR 3,500.",
+  "scope": "grant"
+ },
+ {
+  "type": "Boilerplate",
+  "title": "Closing paragraph for grant applications",
+  "text": "Stichting Buurtklimaat has shown in Zuilen and Overvecht that residents who design and build their own green streets also keep them alive. With this project we bring that approach to Kanaleneiland, together with the housing corporation and the municipality that own the land, and we leave behind cooler streets, trained street captains and maintenance agreements that last beyond the grant.",
+  "scope": "grant"
+ }
+]
