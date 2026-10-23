@@ -1,3 +1,5 @@
+![Bid Desk: open source, no subscription. The bid and grant app for Claude](docs/bid-desk-banner.png)
+
 # Bid Desk
 
 **An open-source bid and grant app for Claude.** No subscription, no licence fee.
